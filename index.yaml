@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  demo-server:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-09T17:05:36.430919896Z"
+    description: A Helm chart for Kubernetes
+    digest: 1830d387747f783a2820682a5f13f2b15c809a1a511a00f1bdc838541a857963
+    name: demo-server
+    type: application
+    urls:
+    - https://github.com/vdigitalpartners/helm-charts/releases/download/demo-server-0.1.0/demo-server-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-09T17:05:36.273030633Z"
