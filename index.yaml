@@ -11,6 +11,17 @@ entries:
     urls:
     - https://github.com/vdigitalpartners/helm-charts/releases/download/demo-server-0.1.0/demo-server-0.1.0.tgz
     version: 0.1.0
+  kube-state-metrics:
+  - apiVersion: v2
+    appVersion: 2.5.0
+    created: "2022-07-14T13:37:57.012025228Z"
+    description: A Helm chart for Kubernetes
+    digest: 4983c3e880ff11a01fbe2f7fc5a448f31a66da5cda556b17becec19f26d38f33
+    name: kube-state-metrics
+    type: application
+    urls:
+    - https://github.com/vdigitalpartners/helm-charts/releases/download/kube-state-metrics-0.1.0/kube-state-metrics-0.1.0.tgz
+    version: 0.1.0
   metrics-server:
   - apiVersion: v2
     appVersion: v0.6.1
