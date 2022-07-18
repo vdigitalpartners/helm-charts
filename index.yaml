@@ -25,6 +25,16 @@ entries:
   metrics-server:
   - apiVersion: v2
     appVersion: v0.6.1
+    created: "2022-07-18T14:00:08.166511205Z"
+    description: A Helm chart for Kubernetes
+    digest: 14c5bd1a231094d82569932971d8f7a1a8339af923e5520400ebb33b206c09c3
+    name: metrics-server
+    type: application
+    urls:
+    - https://github.com/vdigitalpartners/helm-charts/releases/download/metrics-server-0.1.1/metrics-server-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: v0.6.1
     created: "2022-07-09T17:33:41.45738831Z"
     description: A Helm chart for Kubernetes
     digest: 1d04c3ace25494708056f7ded48d7b7c9c2021b9eeecb2cb72b8cb007e92049c
